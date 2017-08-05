@@ -1,4 +1,15 @@
-.decorator{
-  height:70%;
-  width:40;
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color: lightgreen;
+}
+body{
+  background: lightgray;
+}
+}
+h1{
+  font-family: serif;
+}
+.decor{
+  background-color:gray;
 }
