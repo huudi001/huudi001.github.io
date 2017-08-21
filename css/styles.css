@@ -1,0 +1,58 @@
+body{
+  background-image: url(../image/blue_sea_water_background_187019.jpg);
+}
+
+.container{
+  display: inline-block;
+  box-shadow: 10px 10px 10px;
+  width:80%;
+  margin-left: 150px;
+  background-color: white;
+
+}
+
+
+/*.head{
+  display: inline-block;
+  box-shadow: 10px 10px 10px;
+  width:80%;
+  margin-left: 150px;
+}*/
+
+
+
+
+
+.head ul{
+  margin-left: 25px;
+  padding-bottom: 20px;
+}
+.body{
+
+}
+.footer{
+  text-decoration: none;
+  list-style:none;
+  font-size: 20px;
+  display: inline-block;
+
+}
+
+.head ul li{
+  float:left;
+  margin-left: 10px;
+  list-style: none;
+}
+.head ul li a{
+  text-decoration: none;
+  color: orangered;
+
+  color: blue;
+  margin-left: 80px;
+  font-size: 20px;
+
+}
+.head ul li a:hover{
+  text-decoration: none;
+  color: red;
+}
